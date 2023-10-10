@@ -47,7 +47,7 @@ const configAzure = {
   }
 };
 
-// Configuracion cadena de conexión ODBC
+// Configuracion cadena de conexión ODBC,
 
 const connectionString = 'Driver={ODBC Driver 18 for SQL Server};Server=tcp:database-sql.database.windows.net,1433;Database=database_SQLSERVER;Uid=admin-abyga;Pwd={Paildramon12};Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;'
 
